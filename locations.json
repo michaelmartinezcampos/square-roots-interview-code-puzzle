@@ -1,0 +1,62 @@
+[ 
+  {
+    "id": 1,
+    "name": "VICE",
+    "address": "55 Washington St, Brooklyn",
+    "delivery_day":1
+  },
+  {
+    "id": 2,
+    "name": "JP Morgan",
+    "address": "277 Park Ave, New York",
+    "delivery_day":4
+  },
+  {
+    "id": 3,
+    "name": "WeWork Williamsburg",
+    "address": "134 N 4th St, Brooklyn",
+    "delivery_day":3
+  },
+  {
+    "id": 4,
+    "name": "BBDO",
+    "address": "1285 6th Ave, New York",
+    "delivery_day":3
+  },
+  {
+    "id": 5,
+    "name": "Conde Nast",
+    "address": "222 Broadway, New York",
+    "delivery_day":1
+  },
+  {
+    "id": 6,
+    "name": "Quartz",
+    "address": "675 6th Ave, New York",
+    "delivery_day":4
+  },
+  {
+    "id": 7,
+    "name": "ABC News",
+    "address": "47 W 66th St, New York",
+    "delivery_day":5
+  },
+  {
+    "id": 8,
+    "name": "FourSquare",
+    "address": "568 Broadway, New York",
+    "delivery_day":1
+  },
+  {
+    "id": 9,
+    "name": "Casper",
+    "address": "230 Park Ave South, New York",
+    "delivery_day":3
+  },
+  {
+    "id": 10,
+    "name": "Adobe",
+    "address": "100-104 5th Ave, New York",
+    "delivery_day":3
+  }
+]
