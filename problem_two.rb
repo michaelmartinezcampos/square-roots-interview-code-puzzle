@@ -3,5 +3,5 @@
 # =====================================================================================================
 # => Read from locations.json and customers.json files.
 # => The Square Roots farm is located at 630 Flushing Ave, Brooklyn NY 11211.
-# => Feel free to use any library you'd like.
+# => Feel free to use any library/API you'd like.
 
