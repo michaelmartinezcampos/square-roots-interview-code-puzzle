@@ -1,5 +1,5 @@
 # ===================================================================================
-#     Print a list of location names, sorted by weekly revenue in descending order
+#     Print a list of location names, ordered by weekly revenue from highest to lowest
 # ===================================================================================
 # => Read from locations.json and customers.json files.
 # => The plan attribute on a customer is the number of leafy green packs 
